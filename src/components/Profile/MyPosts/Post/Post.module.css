@@ -1,0 +1,8 @@
+.item {
+    grid-area: c;
+    background-color: yellow;
+}
+
+.item img {
+    width: 50px;
+}
