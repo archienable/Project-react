@@ -1,7 +1,7 @@
-import s from './Settings.module.css'
+import style from './Settings.module.css'
 const Settings = (props) => {
      return (
-         <div className={s.settings}>
+         <div className={style.settings}>
              Settings
          </div>
      )

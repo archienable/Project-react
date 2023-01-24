@@ -1,7 +1,7 @@
-import s from './Music.module.css'
+import style from './Music.module.css'
 const Music = (props) => {
      return (
-         <div className={s.Music}>
+         <div className={style.Music}>
              Music
          </div>
      )
